@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "era": "Modernizm",
+      "author": "Fiodor Dostojewski",
+      "title": "Zbrodnia i kara",
+      "character": "Rodion",
+      "species": "Powieść psychologiczna",
+      "place": "Srebrna papierośnica",
+      "threads": "Pragnienie zbawienia ludzkości od istot wyzyskujących ją"
+    },
+    {
+      "era": "asd",
+      "id": 2
+    },
+    {
+      "era": "asd",
+      "id": 3
+    },
+    {
+      "era": "zxc",
+      "id": 4
+    },
+    {
+      "author": "zxc",
+      "id": 5
+    }
+  ],
+  "values": {
+    "era": "Epoka",
+    "author": "Autor",
+    "title": "Tytuł",
+    "character": "Bohater",
+    "species": "Gatunek",
+    "place": "Rekwizyt / miejsce / termin",
+    "threads": "Problematyka / Wątki"
+  }
+}
